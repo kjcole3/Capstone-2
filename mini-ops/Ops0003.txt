@@ -1,0 +1,62 @@
+Due Date 1/12/2017 3:00:00PM 
+MIDCON Data Services, LLC. 
+401 W. 33rd 
+Edmond, OK 73013 
+WWW.MIDCONDATA.COM 
+(405) 478-1234 Fax (405) 478-4442 
+IIIIIHlllmlHIDue Date 1/12/2017 3:00:00PM 
+MIDCON Data Services, LLC. 
+401 W. 33rd 
+Edmond, OK 73013 
+WWW.MIDCONDATA.COM 
+(405) 478-1234 Fax (405) 478-4442 
+IIIIIHlllmlHI
+Priority Normal Delivery 
+
+Work Order: 0621543 
+Customer 111~10111 3496-Dean McGee Eye Institute Requested By Rebecca Day 
+
+Address 608 Stanton L. Young Phone 405-271-6262 
+Oklahoma City, OK 73104 Reference 
+Route 
+Notes: 1-13 
+
+
+Item Code Dept Item Type Action Reference 1 
+
+Requested For: Rebecca Day 
+
+FC34960084609 MED REC FILE-IN BOX Pull -File 342922 ICOLLINS I 
+
+Parent Box Number: BX34960000007578 I Reference 1: 
+QTY 1.00 PutAway-Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960093614 MED REC FILE -IN BOX Pull -File 138369 Iphillips I 
+
+Parent Box Number: BX34960000000408 I Reference 1: 
+QTY 1.00 Put Away -Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960181209 MED REC FILE -IN BOX Pull -File 4702881 SHEPARD I 
+
+Parent Box Number: BX34960000230228 I Reference 1: 
+QTY 1.00 Put Away -Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960202795 MED REC FILE-IN BOX Pull -File 68493 IWALLACE I 
+
+Parent Box Number: BX34960000001975 I Reference 1: 
+QTY 1.00 Put Away -Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960269618 MED REC FILE -IN BOX Pull -File 1219331 ANDERSON I 
+Parent Box Number: BX34960000000525 I Reference 1: 
+QTY 1.00 PutAway-Box 
+Printed 01/12/2017 -11:32 am Prepared By Web Order Created 1/12/17 9:26:20AM Page 1 of 2 
+
+

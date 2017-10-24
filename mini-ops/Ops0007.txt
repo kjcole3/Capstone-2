@@ -1,0 +1,66 @@
+MID MID 
+MIDCON Data Services, LLC. 
+
+401 W. 33rd 
+Edmond, OK 73013 
+WWW.MIDCONDATA.COM 
+
+(405) 478-1234 Fax (405) 478-4442 
+Due Date 1/12/2017 3:00:00PM 
+Priority Normal Delivery 
+Customer 111111111 3496-Dean McGee Eye Institute 
+
+
+Address 608 Stanton L. Young 
+Oklahoma City, OK 73104 
+Notes: duplicate charts 
+Item Code Dept Item Type Action 
+
+IIIIIIIIIIIHHI 
+
+VVorkOrder: 0621523 
+Requested By Dianne Rodriguez 
+
+Phone 405-271-5214 
+Reference 
+Route 
+
+Reference 1 
+
+Requested For: Dianne Rodriguez 
+
+FC34960062456 MED REC FILE -IN BOX Pull -File 330663 IROMERO I 
+
+Parent Box Number: BX34960000007321 / Reference 1: 
+QTY 1.00 PutAway-Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960062459 MED REC FILE-IN BOX Pull -File 330663 IANGELROMERO I 
+
+Parent Box Number: BX34960000007321 I Reference 1: 
+QTY 1.00 Put Away -Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960403979 MED REC FILE-IN BOX Pull -File 278395 IROMERO I 
+
+Parent Box Number: BX34960000001824 I Reference 1: 
+QTY 1.00 PutAway-Box 
+QTY 1.00 Pull -Box 
+
+
+Itemized Pickups I Deliveries 
+Deliver FILE -IN BOX: 3 Relocate FILE -IN BOX: 3 
+
+
+\-\;
+
+
+
+Driver Signature Date/Time Date/Time 
+
+
+Printed 01/12/2017 -11:18 am Prepared By Web Order Created 1/11/17 4:12:02PM Page 1 of 1 
+
+

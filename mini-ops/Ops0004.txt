@@ -1,0 +1,27 @@
+Work Order: 0621543 
+
+.. 
+
+Item Code Dept Item Type Action Reference 1 
+
+Requested For: Rebecca Day 
+QTY 1.00 Pull -Box 
+
+Itemized Pickups I Deliveries 
+Deliver FILE -IN BOX: 5 Relocate FILE -IN BOX: 5 
+Picked up at Customer 
+
+BOX FILE 
+
+
+\-\;.-
+
+
+Daterrime
+
+
+Driver Signature Daterrime 
+
+Printed 01/12/2017 -11 :32 am Prepared By Web Order Created 1 /12/17 9:26:20AM Page 2 of 2 
+
+

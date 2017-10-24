@@ -1,0 +1,67 @@
+MID 
+
+
+
+Due Date 1/12/2017 3:00:00PM 
+Priority Normal Delivery 
+Customer IIIIHHIH 3496-Dean McGee Eye Institute 
+Address 608 Stanton L. Young 
+Oklahoma City, OK 73104 
+Notes: 
+Item Code Dept Item Type Action 
+
+MIDCON Data Services, LLC. 
+
+401 W. 33rd 
+Edmond, OK 73013 
+WWW.MIDCONDATA.COM 
+
+
+(405) 478-1234 Fax (405) 478-4442 
+IIIIIIIIIIIIIIIIIIII 
+
+Work Order: 0621529 
+Requested By Rebecca Day 
+
+Phone 405-271-6262 
+Reference 
+Route 
+
+Reference 1 
+
+Requested For: Rebecca Day 
+
+FC34960029010 MED REC FILE -IN BOX Pull -File 345068 I DORSEY I 
+
+Parent Box Number: BX34960000008058 I Reference 1: 
+QTY 1.00 Put Away-Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960043803 MED REC FILE -IN BOX Pull -File 157211 I MISURACCAI 
+
+Parent Box Number: BX34960000006732 I Reference 1: 
+QTY 1.00 Put Away -Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960054597 MED REC FILE -IN BOX Pull -File 3098651 LANCE I 
+
+Parent Box Number: BX34960000007204 I Reference 1: 
+QTY 1.00 PutAway-Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960080533 MED REC FILE -IN BOX Pull -File 287831 I MOORE I 
+
+Parent Box Number: BX34960000007660 I Reference 1: 
+QTY 1.00 Put Away-Box 
+QTY 1.00 Pull -Box 
+
+
+FC34960118842 MED REC FILE -IN BOX Pull -File 431912 I SELF I 
+Parent Box Number: BX34960000113386 I Reference 1: 
+QTY 1.00 PutAway-Box 
+Printed 01/12/2017 -11:20 am Prepared By Web Order Created 1/11/17 4:44:28PM Page 1 of 2 
+
+
